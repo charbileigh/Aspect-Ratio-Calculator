@@ -23,6 +23,7 @@ An Aspect Ratio Calculator is a tool designed to help users quickly and accurate
 
 ## Screenshots
 
+![aspect ratio calculator](https://github.com/charbileigh/Aspect-Ratio-Calculator/assets/44195461/2c32ea6f-2661-4a1a-a466-f4086a71dc79)
 
 
 ## Tech Stack
